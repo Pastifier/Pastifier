@@ -8,7 +8,8 @@
 ---
 ## Stats 📊
 
+![Grading](https://github-readme-stats.vercel.app/api?username=Pastifier&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastifier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pastifier&theme=shadow-purple)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastifier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
