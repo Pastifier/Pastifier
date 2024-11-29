@@ -6,7 +6,7 @@
 
 <div align=center>
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200"/>
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=hello,%20world&width=800&height=200"/>
   </a>
 </div>
 
