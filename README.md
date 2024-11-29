@@ -30,7 +30,14 @@
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=◾▪️%20miniRT&width=800&height=200"/>
   </a>
 </div>
-
+<div align=center>
+  <a href="https://github.com/Pastifier/Minishell">
+    <!--
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=[$>_%20.]%20miniShell&width=800&height=200"/>
+    -->
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=[$>_%&#x2009;]%20miniShell&width=800&height=200"/>
+  </a>
+</div>
 ## 📈 GitHub Stats
 <div align=center>
   <a href="https://git.io/streak-stats">
