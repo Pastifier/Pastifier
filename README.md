@@ -7,17 +7,14 @@
     <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200"/>
   </a>
 </div>
-<!--
-<img src="assets/darth.jpg" align=center/>
 
-
-
--->
 ## <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> 🌱 About Me
 👋 Hi, I’m @Pastifier  
 👀 Interested in Graphics Programming and Game Dev  
 📫 Reach me: therealemran.design@gmail.com  
+<!--
 ⚡ Fun Fact: Hover over ![this icon] to learn about SIMD!
+-->
 
 ---
 
