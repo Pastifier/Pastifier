@@ -1,4 +1,4 @@
-![DAN DAN DAN dan DA-DAN](assets/darth.jpg)
+<img src="assets/darth.jpg" align=center size=200x200/>
 
 <div align=center>
   <a href="https://git.io/streak-stats">
