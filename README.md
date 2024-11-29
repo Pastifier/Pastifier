@@ -1,4 +1,4 @@
-### <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> Emran BinJamaan
+# <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> Emran BinJamaan
 ---
 
 <!--
