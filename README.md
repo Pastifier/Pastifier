@@ -15,5 +15,12 @@
 ---
 ## Stats 📊
 
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pastifier&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pastifier&layout=compact&theme=vision-friendly-dark"/>
+  </a>
+</div>
+<!--
 ![Grading](https://github-readme-stats.vercel.app/api?username=Pastifier&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastifier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
