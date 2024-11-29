@@ -1,4 +1,5 @@
-<img src="assets/darth.jpg" align=center size=200x200/>
+### <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> Emran BinJamaan
+<img src="assets/darth.jpg" align=center/>
 
 <div align=center>
   <a href="https://git.io/streak-stats">
