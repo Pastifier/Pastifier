@@ -38,6 +38,9 @@
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=[$>_%&#x2009;]%20miniShell&width=800&height=200"/>
   </a>
 </div>
+
+---
+
 ## 📈 GitHub Stats
 <div align=center>
   <a href="https://git.io/streak-stats">
