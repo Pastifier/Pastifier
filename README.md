@@ -2,13 +2,14 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Emran%20BinJamaan&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 -->
+## <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> 🌱 About Me
+
 <div align=center>
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200"/>
   </a>
 </div>
 
-## <img src="https://komarev.com/ghpvc/?username=Pastifier" align="right"> 🌱 About Me
 👋 Hi, I’m @Pastifier  
 👀 Interested in Graphics Programming and Game Dev  
 📫 Reach me: therealemran.design@gmail.com  
