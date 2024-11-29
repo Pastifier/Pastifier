@@ -1,5 +1,12 @@
+<!--
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Emran%20BinJamaan&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+-->
+<div align=center>
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20world.&width=800&height=200"/>
+  </a>
+</div>
 <!--
 <img src="assets/darth.jpg" align=center/>
 
@@ -20,7 +27,12 @@
 -->
 
 ## 🌟 Featured Projects
-- **[miniRT](https://github.com/Pastifier/miniRT)**: Interactive ray tracer made from scratch in the C programming language!
+
+<div align=center>
+  <a href="https://github.com/Pastifier/miniRT">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=◾▪️%20miniRT&width=800&height=200"/>
+  </a>
+</div>
 
 ## 📈 GitHub Stats
 <div align=center>
