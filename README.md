@@ -9,8 +9,6 @@
 ---
 -->
 
----
-
 <!--
 ## 🔧 Technologies & Tools
 [Badges or Icons Here]
