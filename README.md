@@ -24,14 +24,17 @@
 [Badges or Icons Here]
 -->
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (Click On The Banners!)
 
 <div align=center>
+  <h3 align=left>CPU-Optimised, Simple Raytracer In C:</h3>
   <a href="https://github.com/Pastifier/miniRT">
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=↗️⬅️%20miniRT&width=800&height=200"/>
   </a>
+<b></b>
 </div>
 <div align=center>
+  <h3 align=left>Recursive-descent Bash Interpreter (Interactive):</h3>
   <a href="https://github.com/Pastifier/Minishell">
     <!--
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=[$>_%20.]%20miniShell&width=800&height=200"/>
