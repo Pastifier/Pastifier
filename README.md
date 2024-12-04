@@ -28,7 +28,7 @@
 
 <div align=center>
   <a href="https://github.com/Pastifier/miniRT">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=◾▪️%20miniRT&width=800&height=200"/>
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=↗️⬅️%20miniRT&width=800&height=200"/>
   </a>
 </div>
 <div align=center>
